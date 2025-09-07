@@ -1,2 +1,2 @@
 # SpaceIInvader
-<video src="/video.mov" controls title="Gameplay Demo"></video>
+<video src="/gameplay.mov" controls title="Gameplay Demo"></video>
